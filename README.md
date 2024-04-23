@@ -31,7 +31,7 @@ I'd like to express my gratitude to FreeCodeCamp for providing an excellent plat
 
 ## Connect with Me
 
-If you have any questions, suggestions, or just want to say hello, feel free to reach out to me on [GitHub](https://github.com/LeonXpX) or [LinkedIn]([[https://www.linkedin.com/in/leon-9b33912b4]).
+If you have any questions, suggestions, or just want to say hello, feel free to reach out to me on [GitHub](https://github.com/LeonXpX) or [LinkedIn](https://www.linkedin.com/in/leon-9b33912b4).
 
 Happy coding!
 
